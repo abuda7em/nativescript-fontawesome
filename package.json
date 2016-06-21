@@ -1,0 +1,9 @@
+{
+  "name":"nativescript-fontawesome",
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "nativescript-angular": "^0.1.6",
+  }
+}
